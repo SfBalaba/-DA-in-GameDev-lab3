@@ -43,33 +43,41 @@
 - Для Python в отчёте привести скриншоты с демонстрацией сохранения документа google.colab на свой диск с запуском программы, выводящей сообщение Hello World.
 
 -	Создала новый пустой 3D проект на Unity.
+
 ![1](https://user-images.githubusercontent.com/102922461/200721900-bc47eef4-0a3e-469d-933e-363d8d9e59d8.jpg)
 
 
 - Добавила .json – файлы в Pacage Manager
+
 ![2](https://user-images.githubusercontent.com/102922461/200721902-ca642622-7316-4b08-be52-b61784b07d5c.jpg)
 ![Скриншот 08-11-2022 201317](https://user-images.githubusercontent.com/102922461/200602145-d21c9d0a-2602-4207-a565-19ff7c841115.jpg)
 
 - Создала виртуальную среду, установила необходимые пакеты
+
 ![Скриншот 07-11-2022 220648](https://user-images.githubusercontent.com/102922461/200602868-538de42c-079b-4b03-a279-97e35884edd9.jpg)
 ![Скриншот 07-11-2022 220705](https://user-images.githubusercontent.com/102922461/200602880-814353af-8704-450b-9be9-422e71b4ec70.jpg)
 
 - Создала сцену, подключила скрипт RollerAgent, добавила необходимые компоненты
+
 ![Скриншот 07-11-2022 221750](https://user-images.githubusercontent.com/102922461/200603658-e8680771-a3ff-4e96-95dc-fc79e8d141ce.jpg)
 
 - В корень проекта дабавила конфигурационный файл
+
 ![Скриншот 08-11-2022 202037](https://user-images.githubusercontent.com/102922461/200604130-7d0bfbac-6ea5-4e35-a17f-2b8b9326b272.jpg)
 
 - Запустила работу ml-agent
+
 ![Скриншот 07-11-2022 222736](https://user-images.githubusercontent.com/102922461/200605178-dae2b8fe-26cf-43ae-b049-ed81f6e6a81d.jpg)
 
 -	Сделайте 3, 9, 27 копий модели «Плоскость-Сфера-Куб», запустите симуляцию сцены и наблюдайте за результатом обучения модели.
-https://user-images.githubusercontent.com/102922461/200721893-b9528b44-81bf-4943-9010-8c901f895662.mp4
-https://user-images.githubusercontent.com/102922461/200721889-fab27637-bb1c-44b4-a90e-3abfbe95d734.mp4
-https://user-images.githubusercontent.com/102922461/200721895-fb65115a-3490-4bed-a5ce-92c86614dfff.mp4
+
+![8 2](https://user-images.githubusercontent.com/102922461/200815174-9df99dd5-84dd-4cd1-8c94-26000e873c4b.gif)
+![8 1](https://user-images.githubusercontent.com/102922461/200815171-f3c5f68e-c181-453b-be2e-aad2ae6e4828.gif)
+![9](https://user-images.githubusercontent.com/102922461/200815180-b7fb431d-7c00-4475-8328-7dd47cea70be.gif)
 
 - Проверяем работу модели
-https://user-images.githubusercontent.com/102922461/200723288-a9546a73-88b0-47aa-bfd5-5260395dbdc9.mp4
+
+![Видео 07-11-2022 21_16_39](https://user-images.githubusercontent.com/102922461/200816030-3801c9e3-c763-45af-9781-11585c72a563.gif)
 
 - Вывод: Модель быстрее обучается когда тренируются одновременно несколько экзамепляров. Обученная модель ищет оптимальный путь к target, преодалевая минимальное расстояние,  что свидетельствует о том, что модель обучилась достаточно хорошо.
 
